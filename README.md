@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stan!
 - 👀 I’m interested in data analysis and machine learning
-- 🌱 I’m currently learning R programing
+- 🌱 I’m currently learning MCP
 - 💞️ I’m looking to collaborate on artificial intelligence and machine learning projects
 - 📫 How to reach me ...
 
